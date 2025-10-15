@@ -8,6 +8,7 @@ encapsulation.
 ## Nama Kelompok :  
 
  - Rackell Patrix Rakendra (G1A025020)
+ - Arief Hafid Zasella (G1A025052)
  - Lucky Seven Primadhoni (G1A025112)
 
 ## Overview
