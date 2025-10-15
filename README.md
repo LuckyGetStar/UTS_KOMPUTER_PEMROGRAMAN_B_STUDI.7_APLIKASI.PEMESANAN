@@ -7,8 +7,8 @@ encapsulation.
 
 ## Nama Kelompok :  
 
- - Lucky Seven Primadhoni (G1A025112)
  - Rackell Patrix Rakendra (G1A025020)
+ - Lucky Seven Primadhoni (G1A025112)
 
 ## Overview
 
